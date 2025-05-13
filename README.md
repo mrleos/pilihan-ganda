@@ -14,6 +14,7 @@ Game pilihan ganda edukatif untuk anak-anak dengan 10 pertanyaan lucu dan menari
 
 ## Demo
 ![Demo Kuis Anak](/demo1.png )  
+![Demo Kuis Anak](/demo2.png )  
 
 ## Cara Menggunakan
 1. Clone repositori ini atau unduh file HTML
